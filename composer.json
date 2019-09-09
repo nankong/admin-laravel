@@ -65,6 +65,10 @@
         "hooks": {
             "type": "composer",
             "url": "https://larapack.io"
+        },
+        "packagist": {
+            "type": "composer",
+            "url": "https://php.cnpkg.org/"
         }
     }
 }
